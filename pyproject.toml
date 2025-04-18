@@ -13,7 +13,7 @@ include = ["NOTICE"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-gevent = "^24.11.1"
+gevent = ">=23.9.1"
 
 
 [tool.poetry.dev-dependencies]
